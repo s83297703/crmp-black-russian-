@@ -10,33 +10,7 @@
       "reward_type_1":"admob",
       "native_or_mrec_1":"native",
 
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
-      "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
-      "native_or_mrec_2":"native",
-
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
-      "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
-      "native_or_mrec_3":"native",
-
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
-      "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
-      "native_or_mrec_4":"native",
-
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
-      "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
-      "native_or_mrec_5":"native",
+      
 
      
 
@@ -53,99 +27,76 @@
       "native_id_1":"ca-app-pub-3940256099942544/2247696110",
     
 
-      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
-    
-
-     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
-    
+      "showRateUs":true,
+      "gameLink":"https://wallpaper.dog/large/20487356.jpg" 
   
     },
     "guideData": [
     {
-      "image_link": "https://iili.io/H0Ljxt4.jpg",
-      "title": "crmp black russian 1",
-        "text_Content": "CRMP-Black Russian is a strain of cannabis that is believed to have originated in Russia. It is a hybrid strain that is a cross between Black Domina and White Russian, both of which are known for their powerful effects.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0LjoNf.jpg",
-      "title": "crmp black russian 2",
-        "text_Content": "The CRMP-Black Russian strain has a unique combination of both sativa and indica genetics, which gives it a well-balanced high that is both uplifting and relaxing. The aroma of this strain is said to be earthy and pungent, with notes of pine and skunk. The taste is similarly earthy, with a hint of sweetness and a slightly spicy finish.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 2",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0LjnAG.jpg",
-      "title": "crmp black russian 3",
-        "text_Content": "The effects of CRMP-Black Russian are said to be both cerebral and physical. Users report feeling a euphoric, uplifting head high that is accompanied by a relaxed and calm body high. This strain is often used to help with depression, anxiety, and stress, as well as to alleviate pain and improve sleep.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 3",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     }
     ,{
-      "image_link": "https://iili.io/H0LjfcX.jpg",
-      "title": "crmp black russian 4",
-        "text_Content": "One of the key benefits of the CRMP-Black Russian strain is that it is known to have a relatively high THC content, which can range from 20% to 30%. THC is the psychoactive compound in cannabis that is responsible for its mind-altering effects. The high THC content in this strain can make it particularly useful for those who are looking for a potent and long-lasting high.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 4",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0Lj3PI.jpg",
-      "title": "crmp black russian 5",
-        "text_Content": "CRMP-Black Russian is considered an ideal strain for evening and nighttime use, as its relaxing and sedative effects can help promote sleep and ease insomnia. Many users report feeling more relaxed and calm after consuming this strain, making it a great option for those who are looking for a way to unwind and de-stress after a long day.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 5",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0LjKFt.jpg",
-      "title": "crmp black russian 6",
-        "text_Content": "CRMP-Black Russian is also known for its medicinal properties, which can be beneficial for a wide range of health conditions. The high THC content in this strain can help to reduce pain, inflammation, and muscle spasms, making it a popular choice for those with chronic pain conditions. Additionally, its relaxing and sedative effects can be helpful for those with anxiety and depression, as well as for those with sleep disorders.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 6",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0LjqSn.jpg",
-      "title": "crmp black russian 7",
-        "text_Content": "In terms of growing, CRMP-Black Russian is considered to be a relatively easy strain to grow, making it a great option for both experienced and novice growers. It is a hardy plant that can be grown indoors or outdoors and it is known to be resistant to pests and diseases. The plants are typically short and bushy, with dark green leaves and dense buds covered in orange hairs and crystals. The flowering time is around 8-9 weeks and the yield is considered to be moderate to high.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 7",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
